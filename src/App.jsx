@@ -4,6 +4,7 @@ import image11 from "./assets/Group-11.png";
 import retangle from "./assets/Rectangle.png";
 import img from "./assets/img.png";
 import chip from "./assets/chip.png";
+import { NewCard } from "./NewCard";
 
 function App() {
   return (
@@ -40,6 +41,7 @@ function App() {
                   <div className="Footer-Text"> 06/2022</div>
                 </div>
               </div>
+              <NewCard />
             </div>
           </div>
         </div>

@@ -124,8 +124,8 @@
     outline: none;
     border: none;
     position: absolute;
-    top: 14px;
-    right: -20px;
+    top: 12px;
+    right: 10px;
 }
 
 .Info-Submit button:hover {
@@ -144,6 +144,10 @@
     position: absolute;
     top: 14px;
     right: -20px;
+}
+
+.Info-Card {
+    padding-left: 60px;
 }
 
 .Info-Card .Card {
